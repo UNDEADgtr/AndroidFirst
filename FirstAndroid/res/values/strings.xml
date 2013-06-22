@@ -9,6 +9,6 @@
     <string name="login_hint">Enter login</string>
     <string name="password_hint">Enter password</string>
     <string name="clean">Clean</string>
-    <string name="img_lock_description">Lock images</string>
+    <string name="img_lock_description">Lock image</string>
 
 </resources>
